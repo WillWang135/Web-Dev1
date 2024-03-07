@@ -1,2 +1,5 @@
 # Web-Dev1
-Develop Web Applications
+Description: Develop Web Applications
+
+- Develop a Cat Photo App
+- Set up the environment for live server and web development
